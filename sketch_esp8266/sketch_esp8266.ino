@@ -58,7 +58,7 @@ void loop()
         HTTPClient http;
         http.begin(serverName);
         http.addHeader("Content-Type", "application/x-www-form-urlencoded");
-        http.addHeader("Authorization", "token fd90e9e8-b3e2-4e0d-8c4f-2f4641e448b0");
+        http.addHeader("Authorization", "token 密碼");
         // Data to send with HTTP POST
         String httpRequestData = "{\"LatitudeString\":"+LatitudeString+",\"LongitudeString\":"+ LongitudeString+"}";         
         // Send HTTP POST request

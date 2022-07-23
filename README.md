@@ -1,6 +1,7 @@
 # IOT_NTTU 物聯網課程
 <strong>成果連結：</strong>https://nttufootmap.herokuapp.com/
 <br>
+<strong>期末99分：</strong>
 
 ![image](https://github.com/SmallliDinosaur/IOT_NTTU/blob/main/Picture/support_1.jpg)
 ![image](https://github.com/SmallliDinosaur/IOT_NTTU/blob/main/Picture/final_core_99.jpg)

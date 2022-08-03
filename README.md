@@ -1,5 +1,5 @@
 # IOT_NTTU 物聯網課程
-<strong>成果連結：</strong>https://nttufootmap.herokuapp.com/
+<strong>GPS Sensor顯示動態座標：</strong>https://nttufootmap.herokuapp.com/
 <br>
 <strong>期末99分：</strong>
 
